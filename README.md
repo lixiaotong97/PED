@@ -14,7 +14,7 @@ The code is coming soon.
 
 ## Reference
 ```
-@inproceedings{li2023ped,
+@inproceedings{li2023exploring,
   title={Exploring Model Transferability through the Lens of Potential Energy},
   author={Li, Xiaotong and Hu, Zixuan and Ge, Yixiao and Shan, Ying and Duan, Ling-Yu},
   booktitle={International Conference on Computer Vision},
